@@ -6,10 +6,10 @@ Discord bot with multiple features
 ---
 
 ## Commands
-!time: Current time within different timezones
-!tz: Timezone Converter (example: !tz 1830 PDT) will convert time in different timezones
-!dad: Posts a dad joke
-!game: Initiates WWII themed guessing game (WIP)
+*!time: Current time within different timezones
+*!tz: Timezone Converter (example: !tz 1830 PDT) will convert time in different timezones
+*!dad: Posts a dad joke
+*!game: Initiates WWII themed guessing game (WIP)
 
 ---
 
